@@ -1,6 +1,6 @@
 {
-  "name": "新本語",
-  "version": "1.0.0",
+  "name": "newhongo",
+  "version": "0.0.1",
   "description": "New tab, new word!",
   "permissions": ["activeTab", "https://jisho.org/api/*"],
   "chrome_url_overrides": { "newtab": "main.html" },
